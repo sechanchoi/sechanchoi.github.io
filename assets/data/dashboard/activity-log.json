@@ -1,0 +1,623 @@
+[
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 16:35:44.615"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "9001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 16:35:44.611"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 909,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 16:35:44.603"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 15:35:44.278"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 15:35:44.270"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 907,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 15:35:44.257"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 14:35:44.135"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 14:35:44.132"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 909,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 14:35:44.124"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 672,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 13:35:43.673"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 672,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 13:35:43.671"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 908,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 13:35:43.665"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 12:35:43.519"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 12:35:43.512"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 909,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 12:35:43.507"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 11:35:43.363"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 11:35:43.359"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 910,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 11:35:43.351"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 10:35:43.061"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 10:35:43.058"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 909,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 10:35:43.051"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 09:35:42.907"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 09:35:42.900"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 907,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 09:35:42.895"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 08:35:42.760"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 08:35:42.758"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 907,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 08:35:42.751"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 07:35:42.588"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 07:35:42.584"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 907,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 07:35:42.577"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 06:35:38.043"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 06:35:38.039"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 904,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 06:35:38.033"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 05:35:37.903"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 05:35:37.901"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 903,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 05:35:37.894"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 04:35:37.268"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 04:35:37.266"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 903,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 04:35:37.261"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 03:35:37.134"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 03:35:37.131"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 903,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 03:35:37.123"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 02:35:36.993"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 02:35:36.991"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 903,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 02:35:36.984"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 01:35:36.361"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 01:35:36.358"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 903,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 01:35:36.353"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 00:35:36.223"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 00:35:36.219"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 903,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-21 00:35:36.209"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 23:35:35.589"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 23:35:35.585"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 903,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 23:35:35.558"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 22:35:34.920"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 22:35:34.917"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 903,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 22:35:34.909"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 21:35:34.272"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 21:35:34.268"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 903,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 21:35:34.261"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 672,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 20:35:33.560"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 672,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 20:35:33.558"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 908,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 20:35:33.553"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 19:35:32.939"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 19:35:32.932"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 910,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 19:35:32.925"
+   },
+   {
+      "log_desc": "데이터 적재를 요청합니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2004",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 18:35:32.817"
+   },
+   {
+      "log_desc": "데이터를 변환을 성공했습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 674,
+      "step": "2003",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 18:35:32.815"
+   },
+   {
+      "log_desc": "데이터를 받았습니다.",
+      "st_datamodel": "WeatherObserved",
+      "length": 910,
+      "step": "2001",
+      "adapter_id": "TestAdaptor_001",
+      "adapter_type": "기타",
+      "log_dt": "2024-06-20 18:35:32.794"
+   }
+]
